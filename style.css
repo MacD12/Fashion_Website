@@ -46,6 +46,18 @@ header{
     font-size: var(--normal-font);
     transition: all .36s ease;
 }
+.navlist a:hover{
+    color: var(--main-color);
+}
+.header-icons i{
+    font-size: 32px;
+    color: var(--text-color);
+    margin-right: 20px;
+    transition: all .36s ease;
+}
+.header-icons i:hover{
+    color: var(--main-color);
+}
 #menu-icon{
     font-size: 34px;
     color: var(--text-color);
